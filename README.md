@@ -3,10 +3,15 @@
 
 # 安装&启动
 npm install
+
 npm run serve
 
 # build for production with minification
 npm run build
 
 # 技术栈
-Vue全家桶（vue/vuex/vue-cli/vue-router）/epubjs/SASS
+-Vue全家桶（vue/vuex/vue-cli/vue-router）
+
+-epubjs
+
+-SASS
