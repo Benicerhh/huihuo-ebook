@@ -6,7 +6,6 @@ npm install
 
 npm run serve
 
-# build for production with minification
 npm run build
 
 # 技术栈
